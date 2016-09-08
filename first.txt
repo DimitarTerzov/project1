@@ -12,3 +12,8 @@ test -x "$WORDPAD" && exec "$WORDPAD" "$@"
 
 echo "Could not launch $WORDPAD"
 exit 1
+
+ flaksdjflkasdjf
+sdfasldjfklasdjf
+sadljf;lasdkfl;asdkf
+oweipoeiter
